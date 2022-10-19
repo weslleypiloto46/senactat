@@ -1,0 +1,27 @@
+#01_mintupdate
+   a) atualizar --> apt  --> sources.list
+   b) repositorios  -->apt   -->sources.list 
+   (=diretorio)
+   c)pesquisar:oq e ppa'
+   d)instalar atualizaçao -->apt
+   
+#02_instalaçao dos convidados do virtualbox
+   a)dispositivos
+         inserir imagem do cd dos convidados
+		 
+		 
+#03_atualizando via linha de comando
+    pesquisar: o que e bash
+	           o que e shell
+			   o que e apt-get
+			   oque e sudo?
+			
+	sudo apt   --->mintupdate atualizar
+	sudo apt   --->mintupdate instalar
+	sudo apt full-upgrade
+	sudo apt dist-upgrade
+	sudo apt autoremove
+	sudo apt autoclean
+	sudo apt clean
+	history
+   
