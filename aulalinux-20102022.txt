@@ -1,0 +1,9 @@
+linux mint:15- .DEB
+
+google chrome-64bits . deb
+opera linux 
+
+Bdebi --> dependencias
+central de aplicativos
+terminal- apt
+sudo apt install
