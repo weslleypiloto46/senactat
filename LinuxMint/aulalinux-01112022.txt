@@ -1,0 +1,12 @@
+github: - diretorio = repositorio
+github: - microsoft = GNU/linux open source 
+                      (case sensative)
+pesquisar: markdown - extensao: *.md
+           READE.md 
+		   
+pesquise: comando: git - editor: vscode 
+                         (visual studio code)
+		  clonar
+		  
+    sudo apt update 
+	sudo apt intall git vim
