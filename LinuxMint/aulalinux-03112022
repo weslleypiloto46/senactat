@@ -1,0 +1,31 @@
+terminal: ctrl + alt + t - bash
+     senac   = seu usuario 
+	 @       = concaternar
+	 senac!! = nome do computador
+	 -------------------------------
+	 ~      = alias referencia ao seu home 
+	 $      = referencia ao usuario sem direito
+	 #      = super usuario conhecido ---> root
+	 -----------------------------------------------
+	sudo -i () 
+	exit= (sair, atalho ctrl + d)
+	history (historico de comandos)
+	   !    (execultar o comando na linha do history)
+	clear   (limpar a tela,ctrl + L)
+	--------------------------------------------------
+	pedir ajuda no linux 
+	apt     (ajuda simples)
+	--help (ajuda resumida do comando)
+	man apt   (manual do comando)
+	q       (quit)
+	---------------------------------------------------
+	guia foca      -PT-BR https://www.guiafoca.org/
+	ss64     =eN   https://ss64.com/
+	---------------------------------------------------
+	comandos de diretorio e arquivos 
+	git clone     (clonar repositorio do Github)
+	ls          (listar arquivos e diretorios)
+	ls -lh      (modo lista detalhado)
+	cd          (mudar de diretorio)
+	TAB         (tabulador:auto-completar)
+	cd ..       (voltar um diretorio)
